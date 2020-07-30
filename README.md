@@ -12,9 +12,9 @@
 
 <p align="left">
   
-  <a href="#">
-    <img src="svg/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  
+    <img src="https://raw.githubusercontent.com/satyaki07/satyaki07/svg/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
+  
   <a href="#">
     <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
