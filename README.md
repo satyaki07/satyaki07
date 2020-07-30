@@ -5,14 +5,12 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=satyaki07&show_icons=true)
 
-### - Languages and Tools...
+### Languages and Tools
 
 
 
 
 <p align="left">
-  
-  
   
   <a href="#">
     <img src="svg/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
