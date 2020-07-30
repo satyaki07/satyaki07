@@ -4,3 +4,43 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=satyaki07&show_icons=true)
+
+### - Languages and Tools...
+
+
+
+
+<p align="left">
+  
+  
+  
+  <a href="#">
+    <img src="svg/html.svg" alt="html5" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <br/>
+  <a href="#">
+    <img src="svg/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+</p>
