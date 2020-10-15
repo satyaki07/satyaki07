@@ -29,6 +29,8 @@
   <img src="https://raw.githubusercontent.com/satyaki07/satyaki07/master/svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   <br/>
   
+  <img src="https://raw.githubusercontent.com/satyaki07/satyaki07/master/svg/react.svg" alt="reactjs" style="vertical-align:top; margin:6px 4px">
+  
   <img src="https://raw.githubusercontent.com/satyaki07/satyaki07/master/svg/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   
   <img src="https://raw.githubusercontent.com/satyaki07/satyaki07/master/svg/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
