@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/satyaki_07" target="blank"><img src="https://img.shields.io/twitter/follow/satyaki_07?logo=twitter&style=for-the-badge" alt="satyaki_07" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **satyakibose98@gmail.com**
 
