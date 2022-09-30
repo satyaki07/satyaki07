@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyaki</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Front-end developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyaki07" alt="satyaki07" /></a> </p>
 
